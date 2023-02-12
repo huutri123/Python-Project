@@ -1,0 +1,1 @@
+start "" "C:\Users\Tri Nguyen\OneDrive\Documents\Program\Python\Subline Text\du-an1\b.pyw"
